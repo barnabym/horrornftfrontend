@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xE473c01C3265e8a4DF9D83433363d4427745891f",
+  "SCAN_LINK": "https://polygonscan.com/token/0xE473c01C3265e8a4DF9D83433363d4427745891f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Horror NFT",
+  "SYMBOL": "HNFT",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.075,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/0xE473c01C3265e8a4DF9D83433363d4427745891f/0",
+  "SHOW_BACKGROUND": true
+}
